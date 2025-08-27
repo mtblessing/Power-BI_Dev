@@ -11,20 +11,10 @@ An interactive data visualization to explore the financial struggles of EIC and 
 - [Calendar Table](https://github.com/chandoo-org/Power-BI/blob/main/insurance_dashboard/Calendar.xlsx)
 - [Images & Icons](https://github.com/chandoo-org/Power-BI/tree/main/insurance_dashboard/images)
 
-## Video Tutorial
-
-- [Live Stream Replay](https://youtube.com/live/TazNFzgWtgA)
-
-
-
 ## Authors
-
 - @tongai
-- 
-
 
 ## Acknowledgements
-
  - [Dataset](https://data.mendeley.com/datasets/34nfrk36dt/1)
  - [Bar Chart Layout Idea - HowtoPowerBI](https://www.youtube.com/watch?v=EiIAkJ9R7mM)
  - https://github.com/chandoo-org
